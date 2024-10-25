@@ -1,3 +1,19 @@
+# Store Product Listing
+
+A simple product listing page using the Fake Store API.
+
+## Features
+- Fetches product data from Fake Store API.
+- Displays products in a card format with image, title, price, and rating.
+- Responsive design using Tailwind CSS.
+
+## Challenges
+Handling data fetch errors.
+
+## Installation
+- Clone the repo and run `npm install`.
+- Start the app with `npm start`.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
