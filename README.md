@@ -1,6 +1,6 @@
 # Store Product Listing
 
-A simple product listing page using the Fake Store API.
+A simple product listing page using the Fake Store API.\
 demo: https://store-app-task.netlify.app/
 
 ## Features
